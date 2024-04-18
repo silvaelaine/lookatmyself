@@ -6,6 +6,7 @@
 </p>
 
 ## **Projetos**
+Esse portfólio conta com projetos práticos e alguns artigos que postei no meu [Medium](https://medium.com/@lainetnr).
 
 ## **Python:**
 
