@@ -60,7 +60,7 @@ Esse portfólio conta com projetos práticos e alguns artigos que postei no meu 
   - Tudo sobre essa análise está [neste artigo do Medium](https://medium.com/@lainetnr/an%C3%A1lise-de-churn-usando-sql-excel-parte-1-2e49c7a1cafb)
 
 
-### Sobre mim
+## Sobre mim
 Graduanda em Engenharia de Software e com previsão de conclusão para o segundo semestre de 2025, comecei a estudar Ciência de Dados em 2022. Conheci e comecei a estudar sobre essa área de IA após assistir alguns vídeos sobre a Nasa, astronautas e seus foguetes, consequentemente me apaixonando por dados e seus poderes. Meu objetivo é usar dados para obter insights e fazer a diferença no negócio.
 
 Tenho +1.5 anos de experiência usando a linguagem de programação Python para analisar e visualizar dados usando bibliotecas como: Pandas, Numpy, Matplotlib, Seaborn e Plotly. Também uso a linguagem para trabalhar com algoritmos de Machine Learning e Deep Learning usando frameworks como TensorFlow ou PyTorch com foco em Processamento de Linguagem Natural (PNL).
