@@ -2,7 +2,7 @@
 [![author](https://img.shields.io/badge/author-silvaelaine-red.svg)](https://www.linkedin.com/in/euelainesilva/) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 <p align="center">
-  <img src="https://github.com/silvaelaine/lookatmyself/blob/main/GJTU4ncXkAAu6Av.jpg" width=40%>
+  <img src="https://raw.githubusercontent.com/silvaelaine/lookatmyself/main/manun.jpg" width=40%>
 </p>
 
 ## **Projetos**
